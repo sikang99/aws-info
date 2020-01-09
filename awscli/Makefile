@@ -24,6 +24,9 @@ version:
 	aws2 --version
 	#aws-cli/2.0.0dev3 Python/3.7.4 Darwin/19.2.0 botocore/2.0.0dev2
 
+verify:
+	curl -o awscliv2.sig https://d1vvhvl2y92vvt.cloudfront.net/awscli-exe-macos.zip.sig
+	gpg --verify awscliv2.sig awscliv2.zip
 
 git-update gu:
 	cd ..; make gu
