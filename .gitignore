@@ -5,6 +5,7 @@
 *.so
 *.dylib
 
+awscli/aws/
 awscliv2.sig  
 awscliv2.zip
 
@@ -18,4 +19,3 @@ awscliv2.zip
 # vendor/
 #
 
-awscli/aws/
