@@ -12,11 +12,15 @@
 
 
 ### History (Japan)
+- 2019/12/06 [アップデート: Kinesis Video Streams が WebRTC をサポートする様になりました！ #reinvent](https://dev.classmethod.jp/cloud/aws/update-kinesis-video-streams-supports-webrtc/)
+- 2019/12/05 [Amazon Kinesis Video Streams がWebRTC に対応した](https://medium.com/@voluntas/amazon-kinesis-video-streams-%E3%81%8Cwebrtc-%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9F-8302f5194304)
 - 2018/11/27 [レポート: ANT208: Amazon Kinesis Video Streamsを使ったサーバレスビデオインジェストと解析 #reinvent](https://dev.classmethod.jp/cloud/aws/reinvent2018-ant208/)
 
 
 ### History (Korean)
 - [AWS kinesis Data stream 실습 및 예제 코드(Java), 장단점, 가격](https://blog.voidmainvoid.net/297)
+- [Amazon Kinesis Video Streams 요금](https://aws.amazon.com/ko/kinesis/video-streams/pricing/)
+
 
 
 ### Information

@@ -3,9 +3,13 @@
 
 
 
+### History
+- 2019/12/09 [AWS re:Invent 2019 - Serverless Announcements Recap](https://dashbird.io/blog/aws-reinvent-2019-serverless-announcements-recap/)
+
 
 ### Inforamtion
-
+- [Serverless AWS blog](https://marek.rocks/)
+    - [What's New](https://marek.rocks/whats-new)
 
 
 
