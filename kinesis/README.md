@@ -6,6 +6,7 @@
 - 2020/00/00
 - 2019/09/26 [Put data to Amazon Kinesis Firehose delivery stream using Spring Boot](https://towardsdatascience.com/put-data-to-amazon-kinesis-firehose-delivery-stream-using-spring-boot-6098f3e70d54)
 - 2019/09/07 [Real Time Face Identification on Live Camera Feed using Amazon Rekognition Video and Kinesis Video Streams](http://blog.zenof.ai/real-time-face-identification-on-live-camera-feed-using-amazon-rekognition-video-and-kinesis-video-streams/)
+- 2019/07/30 [Streaming Video from a PC Webcam to an Amazon Kinesis Video Stream Using GStreamer](https://cloudbriefly.com/post/streaming-video-from-a-pc-webcam-to-an-amazon-kinesis-video-stream-using-gstreamer/)
 - 2019/04/30 [Facial Recognition with a Raspberry Pi and Kinesis Video Streams — Part 1](https://medium.com/@matt.collins/facial-recognition-with-a-raspberry-pi-and-kinesis-video-streams-part-1-662f0bec5488)
 - 2019/00/00
 - 2018/07/14 [Amazon Kinesis Video Streams Adds Support For HLS Output Streams](http://jtekds.com/amazon-kinesis-video-streams-adds-support-for-hls-output-streams/)
@@ -20,7 +21,7 @@
 ### History (Korean)
 - [AWS kinesis Data stream 실습 및 예제 코드(Java), 장단점, 가격](https://blog.voidmainvoid.net/297)
 - [Amazon Kinesis Video Streams 요금](https://aws.amazon.com/ko/kinesis/video-streams/pricing/)
-
+- 2019/11/07 [Macbook Cam을 AWS Kinesis Video Stream로 전송하기](https://jhb.kr/374)
 
 
 ### Information
