@@ -1,5 +1,5 @@
 ## aws-info/kinesis
-: Amazon Kinesis Video Streams
+: Amazon Kinesis Video Streams (KVS)
 
 
 ### History
