@@ -46,5 +46,11 @@
 - [aws sample for kinesis](https://github.com/aws-samples?utf8=%E2%9C%93&q=kinesis&type=&language=)
 - [awslabs/amazon-kinesis-video-streams-producer-sdk-cpp](https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-cpp) - Amazon Kinesis Video Streams Producer SDK for C++ is for developers to install and customize for their connected camera and other devices to securely stream video, audio, and time-encoded data to Kinesis Video Streams.
 - [awslabs/amazon-kinesis-video-streams-webrtc-sdk-c](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c) - Amazon Kinesis Video Streams Webrtc SDK is for developers to install and customize realtime communication between devices and enable secure streaming of video, audio to Kinesis Video Streams
+- [aws/amazon-kinesis-video-streams-parser-library](https://github.com/aws/amazon-kinesis-video-streams-parser-library) - Amazon Kinesis Video Streams parser library is for developers to include in their applications that makes it easy to work with the output of video streams such as retrieving frame-level objects, metadata for fragments, and more.
+- [Parassharmaa/react-native-aws-kinesis](https://github.com/Parassharmaa/react-native-aws-kinesis) - WIP
+- [hardikaj96/SmartDoor](https://github.com/hardikaj96/SmartDoor)
+- [envirover/KVAdapter](https://github.com/envirover/KVAdapter) - Amazon Kinesis Video Streams adapter
+
+
 
 

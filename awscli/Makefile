@@ -20,6 +20,7 @@ test t:
 	aws s3 ls
 	#aws s3 cp myvideo.mp4 s3://mybucket/
 	aws2 s3 ls
+	#aws --endpoint-url https://play.min.io:9000 s3 ls
 
 version:
 	aws --version
