@@ -31,6 +31,8 @@
     - [Kinesis Video Streams Media](https://docs.aws.amazon.com/sdk-for-go/api/service/kinesisvideomedia/)
     - [Example: Kinesis Video Streams Producer SDK GStreamer Plugin](https://docs.aws.amazon.com/kinesisvideostreams/latest/dg/examples-gstreamer-plugin.html#examples-gstreamer-plugin-docker-download)
 - [amazonka-kinesis-video: Amazon Kinesis Video Streams SDK](https://hackage.haskell.org/package/amazonka-kinesis-video) - v1.6.1
+- [Recognizing Faces in a Streaming Video](https://docs.aws.amazon.com/rekognition/latest/dg/recognize-faces-in-a-video-stream.html)
+
 
 
 ### Slides
@@ -51,6 +53,7 @@
 - [hardikaj96/SmartDoor](https://github.com/hardikaj96/SmartDoor)
 - [envirover/KVAdapter](https://github.com/envirover/KVAdapter) - Amazon Kinesis Video Streams adapter
 - [imyoungyang/video-streaming](https://github.com/imyoungyang/video-streaming) - RealTime Video Face Detection
-
+- [rikbrown/kinesis-video-gstreamer-java](https://github.com/rikbrown/kinesis-video-gstreamer-java) - Publish from GStreamer to Kinesis Video using Java (for now, just RTSP streams)
+- [https://github.com/sabmeua/amazon-kinesis-video-streams-gstreamer-test](https://github.com/sabmeua/amazon-kinesis-video-streams-gstreamer-test) - Amazon Kinesis Video Streams Producer gstreamer plug-in demo on Ubuntu 16.04
 
 
