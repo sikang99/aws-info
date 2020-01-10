@@ -50,7 +50,7 @@
 - [Parassharmaa/react-native-aws-kinesis](https://github.com/Parassharmaa/react-native-aws-kinesis) - WIP
 - [hardikaj96/SmartDoor](https://github.com/hardikaj96/SmartDoor)
 - [envirover/KVAdapter](https://github.com/envirover/KVAdapter) - Amazon Kinesis Video Streams adapter
-
+- [imyoungyang/video-streaming](https://github.com/imyoungyang/video-streaming) - RealTime Video Face Detection
 
 
 
