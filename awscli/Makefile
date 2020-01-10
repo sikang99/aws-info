@@ -6,12 +6,15 @@ usage:
 
 install-aws1:
 	brew install awscli
-	aws configure
 
 install-aws2:
 	curl "https://d1vvhvl2y92vvt.cloudfront.net/awscli-exe-macos.zip" -o "awscliv2.zip"
 	unzip awscliv2.zip
 	sudo ./aws/install
+
+config:
+	aws configure
+	#aws configure set default.s3.signature_version s3v4
 
 test t:
 	aws s3 ls
