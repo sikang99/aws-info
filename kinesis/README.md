@@ -13,6 +13,7 @@
 
 
 ### History (Japan)
+- 2019/12/25 [Amazon Kinesis Video StreamsのWebRTCの実力](Amazon Kinesis Video StreamsのWebRTCの実力)
 - 2019/12/06 [アップデート: Kinesis Video Streams が WebRTC をサポートする様になりました！ #reinvent](https://dev.classmethod.jp/cloud/aws/update-kinesis-video-streams-supports-webrtc/)
 - 2019/12/05 [Amazon Kinesis Video Streams がWebRTC に対応した](https://medium.com/@voluntas/amazon-kinesis-video-streams-%E3%81%8Cwebrtc-%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9F-8302f5194304)
 - 2019/08/19 [Macからカメラ映像をAmazon Kinesis Video Streamに送信しHLSで動画再生をする](https://qiita.com/amachi0/items/03572471beb25bad9c8d)
