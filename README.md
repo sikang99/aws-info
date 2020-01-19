@@ -6,6 +6,8 @@
 ### History
 - 2020/01/06 [AWS re:Invent 2019 — A Recap](https://medium.com/@piyushj02/aws-re-invent-2019-a-recap-a8d62978c82a)
 - 2019/12/09 [AWS re:Invent 2019 - Serverless Announcements Recap](https://dashbird.io/blog/aws-reinvent-2019-serverless-announcements-recap/)
+- 2019/12/02 [What Was New for AWS Elemental Media Services in 2019](https://aws.amazon.com/ko/blogs/media/what-was-new-for-aws-elemental-media-services-in-2019/)
+`
 
 
 ### Inforamtion
